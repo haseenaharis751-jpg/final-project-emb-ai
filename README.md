@@ -1,14 +1,20 @@
-# Emotion-Detection-WatsonNLP
-# Emotion Detection using IBM Watson NLP
+# Final Project - Emotion Detection using IBM Watson NLP
 
-This project detects human emotions from text using IBM Watson Natural Language Processing.
+This Final Project demonstrates an AI-based emotion detection application built using IBM Watson Natural Language Processing.
+
+## Project Description
+
+The system analyzes user-provided text and detects emotions such as joy, sadness, anger, fear, and disgust. The application is deployed using Flask and tested using unit testing and static code analysis.
 
 ## Features
 
-* Detects emotions: Joy, Sadness, Anger, Fear, Disgust
-* Uses Watson NLP pre-trained emotion model
-* Built using Python
+* Emotion prediction using Watson NLP
+* Web interface using Flask
+* Error handling for blank input
+* Python package structure
+* Unit testing
+* Static code analysis (pylint)
 
 ## Author
 
-Haseena
+Haseena Haris
